@@ -1,0 +1,1 @@
+print(f"O salario do joão é 2 reais")
